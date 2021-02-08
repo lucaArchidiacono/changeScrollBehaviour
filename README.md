@@ -1,3 +1,0 @@
-- Open the file in Apples own "Script Editor".
-- Go to "File" -> "Export..." save as "Application" and select "Stay open after run handler"
-- Open Terminal and type in: `defaults write /Applications/name_of_app.app/Contents/Info.plist LSUIElement -bool yes`. (This makes sure, that the applicaiton is hidden on the dock and you only see it in the menu bar.)
